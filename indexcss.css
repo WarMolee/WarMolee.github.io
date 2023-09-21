@@ -1,5 +1,5 @@
 body {
-	background-image: url('fog2.jpg');
+	background-image: url('img/fog2.jpg');
 	background-repeat: no-repeat;
 	background-color: #120F0F;
 	background-position:top; 
@@ -190,17 +190,17 @@ a{
 	color: black;
 }
 #project1{
-	background-image: url('lotus.jpg');
+	background-image: url('img/lotus.jpg');
 	background-position:center center;
 	background-size: 200% 100%;
 }
 #project2{
-	background-image: url('fox.jpg');
+	background-image: url('img/fox.jpg');
 	background-position:top 50%;
 	background-size: 300% 100%;
 }
 #project3{
-	background-image: url('field.jpg');
+	background-image: url('img/field.jpg');
 	background-position:top left;
 	background-size: 300% 100%;
 }
